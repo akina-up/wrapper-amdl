@@ -12,9 +12,8 @@ docker版本为Docker version 20.10.5+dfsg1, build 55c4c88
 
 docker-compose版本为  
 docker-compose version 1.25.0, build unknown  
-docker-py version: 4.1.0  
-CPython version: 3.9.2  
-OpenSSL version: OpenSSL 1.1.1w  11 Sep 2023  
+
+更多教程可以看我的博客 https://blog.iakina.de/am
 
 下面为原作者原教程，做了部分修改  
 
