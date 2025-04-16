@@ -1,10 +1,20 @@
 # wrapper-amdl
 fork自上游  
 增加的功能  
-1.默认安装ffmpeg，方便获取动态封面  
-2.通过环境变量设置ttyd账号和密码（默认账号密码为admin 123456）  
-TTYD_USERNAME=admin   
-TTYD_PASSWORD=123456  
+- 1.默认安装ffmpeg，方便获取动态封面  
+- 2.通过环境变量设置ttyd账号和密码（默认账号密码为admin 123456）  
+  - TTYD_USERNAME=admin   
+  - TTYD_PASSWORD=123456  
+
+我使用的系统为debain 11 
+
+docker版本为Docker version 20.10.5+dfsg1, build 55c4c88 
+
+docker-compose版本为  
+docker-compose version 1.25.0, build unknown  
+docker-py version: 4.1.0  
+CPython version: 3.9.2  
+OpenSSL version: OpenSSL 1.1.1w  11 Sep 2023  
 
 下面为原作者原教程，做了部分修改  
 
