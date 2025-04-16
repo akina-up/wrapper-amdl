@@ -15,7 +15,7 @@ Docker version 20.10.5+dfsg1, build 55c4c88
 docker-compose版本为  
 docker-compose version 1.25.0, build unknown  
 ***
-更多教程可以看我的博客 https://blog.iakina.de/am
+更详细的教程可以看我的博客 https://blog.iakina.de/am
 ***
 下面为原作者原教程，做了部分修改  
 
