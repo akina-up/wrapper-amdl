@@ -9,7 +9,7 @@ fork自上游
 ***
 我使用的系统为debain 11 
 
-docker版本为
+docker版本为  
 Docker version 20.10.5+dfsg1, build 55c4c88 
 
 docker-compose版本为  
