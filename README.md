@@ -12,8 +12,8 @@ fork自上游
 docker版本为  
 Docker version 20.10.5+dfsg1, build 55c4c88 
 
-docker-compose版本为  
-docker-compose version 1.25.0, build unknown  
+docker compose版本为  
+Docker Compose version v2.34.0
 ***
 更详细的教程可以看我的博客 https://blog.iakina.de/am
 ***

@@ -1,4 +1,3 @@
-version: '3.7'
 services:
   wrapper:
     container_name: wrapper
